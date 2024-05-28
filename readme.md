@@ -1,5 +1,5 @@
 Arrays:
-- Structureing data
+- Structuring data
 - In computer, we structure data in RAM
 
 Array = [1,2,3,4,5] -> This array is stored in RAM where all our vaiables are stored
